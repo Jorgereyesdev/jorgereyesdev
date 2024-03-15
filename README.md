@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">I am a junior Android developer with 6 months of experience in creating mobile applications using Kotlin. I have knowledge in new functionalities, MVVM, OOP, layout, API, and functional programming. I love working in a team and learning new things every day to improve my skills as a developer</h3>
+<h3 align="center">I am a junior Android developer with 1 year of experience in creating mobile applications using Kotlin. I have knowledge in new functionalities, MVVM, OOP, layout, API, and functional programming. I love working in a team and learning new things every day to improve my skills as a developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgereyesdev&label=Profile%20views&color=0e75b6&style=flat" alt="jorgereyesdev" /> </p>
 
